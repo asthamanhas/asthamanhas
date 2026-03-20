@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Astha Manhas</h1>
-<h3 align="center">💻 Full Stack Developer & Problem Solver 🚀</h3>
+<h3 align="center">💻 Full Stack Developer | Problem Solver 🚀</h3>
 
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/asthamanhas)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Node.js+Enthusiast;Problem+Solver;Open+Source+Learner&center=true&width=500&height=45">
+</p>
 
 ---
 
