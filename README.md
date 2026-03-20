@@ -57,7 +57,7 @@
 # 🚀 Featured Projects
 
 ### 📄 EDUDOC  
-**Project** | [GitHub](https://github.com/asthamanhas) | *Dec 2025*
+**Project** | [GitHub]([https://github.com/asthamanhas](https://github.com/asthamanhas/EduDoc-Education-Policy-Portal)) | *Dec 2025*
 
 - Implemented full-stack document intelligence portal  
 - Advanced search, filtering & pagination with REST APIs  
@@ -69,7 +69,7 @@
 ---
 
 ### 🚗 Smart Parking System  
-**Project** | [GitHub](https://github.com/asthamanhas) | *July 2025*
+**Project** | [GitHub]([https://github.com/asthamanhas](https://github.com/asthamanhas/My-Smart-Parking-Web-App)) | *July 2025*
 
 - Built intelligent parking system with real-time availability  
 - Used Greedy & Dijkstra algorithms for optimal allocation  
@@ -81,7 +81,7 @@
 ---
 
 ### 🤖 Tech Tutorial Assistant (AI Chatbot)  
-**Project** | [GitHub](https://github.com/asthamanhas) | *April 2025*
+**Project** | [GitHub]([https://github.com/asthamanhas](https://github.com/asthamanhas/Tech-Tutorial-Bot)) | *April 2025*
 
 - Developed AI chatbot using Gemini API  
 - Reduced latency by ~40% using async processing  
