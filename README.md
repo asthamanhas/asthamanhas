@@ -1,138 +1,128 @@
 <h1 align="center">Hi 👋, I'm Astha Manhas</h1>
-<h3 align="center">💻 Full Stack Developer | Problem Solver 🚀</h3>
+<h3 align="center">💻 Full Stack Developer & Problem Solver 🚀</h3>
+
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/asthamanhas)
+
+---
+
+# 💫 About Me
+
+- 🔭 I'm currently working on **Full Stack Web Development Projects**
+- 👯 I'm looking to collaborate on **Web Applications & Open Source**
+- 🌱 I'm currently learning **Advanced Backend & System Design**
+- 💬 Ask me about **React, Node.js, PHP & DSA**
+- 📫 Reach me at **asthamanhas39@gmail.com**
+- 📱 Mobile: **+91-8580527698**
+- ⚡ Fun fact: *"I turn ideas into real-world scalable applications!"*
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Node.js+Enthusiast;Problem+Solver;Open+Source+Learner&center=true&width=500&height=45">
+<img alt="Coding" width="400" src="https://media2.giphy.com/media/GghGKaZ8JeHJx0apQC/giphy.gif"/>
+<img alt="Coding" width="400" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 </p>
 
 ---
 
-## 💫 About Me  
-🔭 I build scalable full-stack web applications  
-👯 I’m looking to collaborate on Web Development & Open Source  
-🌱 Currently learning Advanced Backend & System Design  
-💬 Ask me about React, Node.js, PHP & DSA  
-📫 Email: **asthamanhas39@gmail.com**  
-📱 Mobile: +91-8580527698  
-⚡ Fun fact: *"I turn ideas into real-world applications!"*  
+## 🌐 Connect with Me
 
----
-
-## 🌐 Connect with Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/asthamanhas19/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://github.com/asthamanhas"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-<a href="mailto:asthamanhas39@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/asthamanhas19/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/asthamanhas" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"/></a>
+<a href="mailto:asthamanhas39@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 💻 Tech Stack  
+# 💻 Tech Stack
 
-### 🚀 Languages  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php)
+### Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,php" />
+</p>
 
-### ⚙️ Frameworks & Libraries  
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss)
+### Web Technologies
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+</p>
 
-### 🌐 Web Technologies  
-HTML5, CSS3, REST APIs  
-
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb)
-
-### 🛠️ Tools & Platforms  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git)
-![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render)
+### Frameworks & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects  
+# 🚀 Featured Projects
 
 ### 📄 EDUDOC  
-📅 December 2025  
-- Built full-stack document intelligence portal for higher-education policies  
-- Advanced search, filtering & pagination with optimized APIs  
-- Deployed on Vercel & Render with performance optimization  
-- Solved SPA routing, CORS & latency issues  
+**Project** | [GitHub](https://github.com/asthamanhas) | *Dec 2025*
+
+- Implemented full-stack document intelligence portal  
+- Advanced search, filtering & pagination with REST APIs  
+- Deployed on Vercel & Render with optimized performance  
+- Solved SPA routing, CORS & latency challenges  
+
 **Tech Stack:** React, Node.js, MongoDB, Express, Tailwind CSS  
 
 ---
 
 ### 🚗 Smart Parking System  
-📅 July 2025  
-- Real-time parking slot system with optimal allocation  
-- Used Greedy & Dijkstra algorithms  
-- Bilingual query detection (~95% accuracy)  
-- Reduced congestion via shortest-path guidance  
+**Project** | [GitHub](https://github.com/asthamanhas) | *July 2025*
+
+- Built intelligent parking system with real-time availability  
+- Used Greedy & Dijkstra algorithms for optimal allocation  
+- Achieved ~95% bilingual query accuracy  
+- Reduced congestion using shortest-path logic  
+
 **Tech Stack:** Python, Algorithms  
 
 ---
 
 ### 🤖 Tech Tutorial Assistant (AI Chatbot)  
-📅 April 2025  
-- Built chatbot using Gemini API with NLP processing  
-- Reduced latency by ~40% using async APIs  
-- Responsive UI with animations & code-copy feature  
+**Project** | [GitHub](https://github.com/asthamanhas) | *April 2025*
+
+- Developed AI chatbot using Gemini API  
+- Reduced latency by ~40% using async processing  
+- Built responsive UI with animations & code-copy  
+
 **Tech Stack:** Python, Flask, JavaScript  
 
 ---
 
-## 🎓 Training  
-**Externs Club – Web Development**  
-📅 Jan 2024 – Feb 2024  
-- Learned full-stack fundamentals (HTML, CSS, JS, backend, DB)  
-- Built complete applications with client-server integration  
-- Used Git for version control  
+# 📚 Certifications
+
+- 🎓 GEN AI NASSCOM – Future Skill Prime  
+- 🔒 Privacy & Security in Social Media – NPTEL  
+- 🌐 Computer Networking (Google) – Coursera  
+- 🤖 Generative AI Foundation – AGI Scholars  
 
 ---
 
-## 📚 Certifications  
-- GEN AI NASSCOM – Future Skill Prime  
-- Privacy & Security in Social Media – NPTEL  
-- Computer Networking (Google) – Coursera  
-- Generative AI Foundation – AGI Scholars  
+# 🎓 Education
+
+### 🏛️ Lovely Professional University  
+**Bachelor of Technology - Computer Science and Engineering**  
+*Aug 2023 – Present*  
+
+### 🏫 Army Public School, Yol Cantt  
 
 ---
 
-## 🏆 Achievements  
-- Solved 200+ problems on LeetCode  
-- Earned multiple HackerRank badges  
+# 🌟 Extracurricular Activities
+
+- 🤝 Volunteered in community initiatives  
+- 💻 Participated in hackathons & coding challenges  
 
 ---
 
-## 🎓 Education  
-🎓 Lovely Professional University  
-B.Tech – Computer Science & Engineering  
-
-🏫 Army Public School, Yol Cantt  
-
----
-
-## 📊 GitHub Stats  
+### ✍️ Random Dev Quote
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=asthamanhas&show_icons=true&theme=radical">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asthamanhas&theme=radical">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
 
-## ✍️ Dev Quote  
-_"Code. Learn. Build. Repeat."_ 🚀  
-
----
-
-## 👀 Profile Visits  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asthamanhas&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <img src="https://visitcount.itsvg.in/api?id=asthamanhas&icon=2&color=6" alt="Profile Visits"/>
 </p>
